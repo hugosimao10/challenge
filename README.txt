@@ -1,10 +1,10 @@
 ################### README #####################
 
-1º Abrir a pasta no editor;
-2º Abrir um terminal na pasta "Projeto", e escrever:
+1º Abrir a pasta "Projeto" no editor;
+2º Abrir um terminal na pasta, e escrever:
 	-> npm install
 	-> npm start
-3º Abrir outro terminal na pasta "Projeto", e escrever:
+3º Abrir outro terminal na pasta, e escrever:
 	-> cd client
 	-> npm install
 	-> npm start
