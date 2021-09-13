@@ -1,0 +1,12 @@
+.header {
+    padding: 10px 0;
+    text-align: center;
+    background-image: url('../images/headbck.jpg');
+  }
+  .header2 {
+    color: white;
+    text-align: center;
+    font-family: 'Arial';
+    letter-spacing: 3px;
+
+  }
