@@ -10,3 +10,7 @@
 	-> npm start
 4º Por fim, o browser deverá abrir automaticamente em "localhost:3000".
    Caso não abra automaticamente, abrir o browser e escrever "localhost:3000" (sem as aspas).
+   
+
+OBS: O ficheiro log que regista os pedidos é criado automaticamente quando o programa corre a primeira vez,
+     e fica armazenado na pasta "server".
